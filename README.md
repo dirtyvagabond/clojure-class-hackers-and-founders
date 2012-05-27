@@ -1,7 +1,7 @@
 Clojure Class for Hackers And Founders
 ==================================
 
-This repo contains course material for the Hackers and Founders Clojure Class, to be held June 3, 2012.
+This repo contains course material for the Hackers and Founders Clojure Class, to be held June 2, 2012.
 
 # Class Preparation
 
